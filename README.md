@@ -50,7 +50,7 @@ assign b=din[2] | din[3] | din[6] | din[7];
 assign c=din[2] | din[4] | din[6] | din[7];
 endmodule
 ```
-Developed by:P.Hemasonica  RegisterNumber: 212222230112
+Developed by:S.Prema Latha  RegisterNumber: 212222230112
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
